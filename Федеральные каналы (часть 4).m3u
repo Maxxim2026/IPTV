@@ -27,23 +27,26 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Общие",ТВЦ
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
 
-#EXTINF:-1 tvg-id="RENTV.ru" group-title="Общие",РЕН ТВ
-http://31.148.5.241/kanal_11/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Общие",СТС
+http://31.148.5.241/kanal_13/index.m3u8
 
 #EXTINF:-1 group-title="Развлечения",ТВ-3
 http://31.148.5.241/kanal_15/index.m3u8
 
-#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Общие",СТС
-http://31.148.5.241/kanal_13/index.m3u8
-
-#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Новости",МИР 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" group-title="Общие",РЕН ТВ
+http://31.148.5.241/kanal_11/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.ru@SD" group-title="Общие",ТНТ
 http://31.148.5.241/kanal_19/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru@HD" group-title="Развлечения",ТНТ4
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+
+#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="Новости",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные",История
+https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Общие",Пятый канал
 http://31.148.5.241/kanal_5/index.m3u8
@@ -54,20 +57,23 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 group-title="Ретро",Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
 
+#EXTINF:-1 group-title="Развлечения",Время
+https://fs.uplink.kz/vremya/mono.m3u8?token=onlinetv
+
 #EXTINF:-1 group-title="Кино",Кино ТВ
 https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="Domkino.ru@SD" group-title="Кино",Дом кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
 
-#EXTINF:-1 group-title="Кино",Родное кино
-http://stream.mcquack.net/242/index.m3u8
-
 #EXTINF:-1 group-title="Зарубежное кино",viju+ Megahit
-http://stream.mcquack.net/200/index.m3u8
+http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 
 #EXTINF:-1 group-title="Кино",viju TV1000 Русское
 http://46.53.200.153:7777/play/a01g/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Классика",Ретро
 http://176.118.197.101/Retro/index.m3u8
@@ -75,14 +81,14 @@ http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://185.121.1.163:8083/Mosfilm/index.m3u8
 
-#EXTINF:-1 tvg-id="Kino1.ru@International" group-title="Кино",КИНО 1 INTERNATIONAL
+#EXTINF:-1 tvg-id="Kino1.ru@International" group-title="Кино",КИНО 1
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="Музыка",МУЗ-ТВ
 http://31.148.5.241/kanal_20/index.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" group-title="Музыка",BRIDGE CLASSIC
-http://stream.mcquack.net/272/index.m3u8
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="Muzyka1.ru@International" group-title="Музыка",МУЗЫКА 1 INTERNATIONAL
 https://kino-1.catcast.tv/content/37745/index.m3u8
